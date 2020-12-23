@@ -1,13 +1,12 @@
-### Hi there 👋
+### Salut toi ! 👋
 
-- 🔭 Je travaille actuellement sur OttakoSky
+- 🔭 Je travaille actuellement sur Andoria
 - 🤡 Je préfère le JavaScript & Java :)
-- 🤔 Je cherche de l’aide pour OttakoSky
 
 ### Me contacter
 
-[<img align="left" alt="Suprazy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Suprazy | Instagram" width="22px" src="https://cdn.discordapp.com/emojis/693493074277695647.png" />][Discord]
+[<img align="left" alt="Nedia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Nedia | Instagram" width="22px" src="https://cdn.discordapp.com/emojis/693493074277695647.png" />][Discord]
 
 <br />
 
@@ -24,5 +23,5 @@
 <br />
 <br />
 
-[Twitter]: https://twitter.com/KeziixTV
-[Discord]: https://discord.gg/sWwJ
+[Twitter]: https://twitter.com/Nedia__
+[Discord]: Nedia'#0001
